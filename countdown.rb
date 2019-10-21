@@ -18,5 +18,5 @@ def countdown_with_sleep
   number -= 1 
   
   puts "#{number} SECOND(S)!"
-  sleep (5 second)
+  sleep (5.seconds)
 end
